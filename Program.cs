@@ -31,6 +31,7 @@ class GFG {
 		obj.Identity("Akku", 1);
 		obj.Identity(2, "Abby");
         Console.WriteLine("ended");
+        Console.WriteLine("bye");
 	}
 }
 
