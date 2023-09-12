@@ -1,0 +1,15 @@
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\Sample2023.csproj.AssemblyReference.cache
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\Sample2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\Sample2023.AssemblyInfoInputs.cache
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\Sample2023.AssemblyInfo.cs
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\Sample2023.csproj.CoreCompileInputs.cache
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\bin\Debug\net7.0\Sample2023.exe
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\bin\Debug\net7.0\Sample2023.deps.json
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\bin\Debug\net7.0\Sample2023.runtimeconfig.json
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\bin\Debug\net7.0\Sample2023.dll
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\bin\Debug\net7.0\Sample2023.pdb
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\Sample2023.dll
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\refint\Sample2023.dll
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\Sample2023.pdb
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\Sample2023.genruntimeconfig.cache
+C:\Users\praveen.janarthanam\Desktop\git\Sample2023\obj\Debug\net7.0\ref\Sample2023.dll
