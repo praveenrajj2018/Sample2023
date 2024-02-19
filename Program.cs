@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// C# program to demonstrate the function
-// overloading by changing the
-// Order of the parameters
+//Removed unwanted  comments 
 using System;
 class GFG {
 
